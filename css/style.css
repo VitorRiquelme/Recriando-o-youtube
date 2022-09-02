@@ -1,0 +1,33 @@
+.topo{
+    width: 98%;
+    padding: 12px 20px;
+}
+.left{
+    float: left;
+}
+.esquerda{
+    float: left;
+}
+.youtube{
+    width: 100%;
+    max-width: 80px;
+    margin-left: 20px;
+    
+}
+.pesquisa{
+    padding: 7px 10px;
+    width: 100%;
+    max-width: 600px;
+    margin-left: 140px;
+    outline-color: blue;
+    margin-top: -6px;
+    float: left;
+}
+.butao{
+    padding: 7px 27px;
+    float: left;
+    color: grey;
+}
+button{
+    margin-top: -6px;
+}
