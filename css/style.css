@@ -53,11 +53,17 @@ button{
 .login{
     float: left;
     margin-left: 20px;
-    padding: 20px;
+    padding: 10px 20px;
     color: blue;
     border: 1px solid blue;
     background: white;
+    font-weight: bold;
+    margin-top: -8px;
 }
 .usuario{
-    
+    color: blue;
+    font-size: 20px !important;
+    float: left;
+    margin-right: 5px;
+    margin-top: -3px;
 }
