@@ -95,12 +95,16 @@ button{
     margin-left: 10px;
     margin-right: 20px;
 }
-.lateral{
+.lateral-esquerda{
     width: 231px;
     padding: 11px 10px;
     color: grey;
     font-weight: bold;
     font-size: 14px;
+    cursor: pointer;
+}
+.lateral-esquerda:hover{
+    background: rgba(223, 222, 222, 0.89);
 }
 .icones-lateral{
     color: grey;
