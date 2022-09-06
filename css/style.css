@@ -113,3 +113,24 @@ button{
     margin-left: 10px;
     margin-right: 20px;
 }
+.seperador{
+   height: 1px;
+   background: gray;
+   margin-top: 15px;
+}
+.curta{
+    width: 100%;
+    max-width: 150px;
+    font-size: 14px;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: -4px;
+}
+.melhore{
+    width: 100%;
+    max-width: 150px;
+    font-size: 14px;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 5px;
+}
